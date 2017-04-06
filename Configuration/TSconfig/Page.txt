@@ -1,0 +1,1 @@
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:phoenix_base/Configuration/TSconfig/Page/RTE.txt">

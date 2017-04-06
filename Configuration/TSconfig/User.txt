@@ -1,0 +1,20 @@
+options {
+	uploadFieldsInTopOfEB = 1
+	createFoldersInEB = 1
+
+	pageTree {
+		showPageIdWithTitle = 1
+		showNavTitle = 1
+	}
+
+	clearCache {
+		system = 1
+		pages = 1
+		all = 1
+	}
+}
+
+admPanel {
+	enable.edit = 1
+	enable.info = 1
+}
