@@ -1,10 +1,10 @@
 <?php
-namespace Phoenixlabs\PhoenixBase\ViewHelpers;
+namespace ReneKreupl\PhoenixBase\ViewHelpers;
 
 /***************************************************************
  *  Copyright notice
  *
- *  (c) 2014 Maximilian Mayer <max@m-elf.com>
+ *  (c) 2014 Rene Kreupl <info@renekreupl>
  *
  *  All rights reserved
  *
