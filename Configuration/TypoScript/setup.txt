@@ -1,8 +1,5 @@
 # Include setup from other extensions
 <INCLUDE_TYPOSCRIPT: source="FILE:EXT:news/Configuration/TypoScript/setup.txt">
-<INCLUDE_TYPOSCRIPT: source="FILE:EXT:powermail/Configuration/TypoScript/Main/setup.txt">
-
-//TODO Jan fragen
 
 # Include global configuration
 <INCLUDE_TYPOSCRIPT: source="DIR:EXT:phoenix_base/Configuration/TypoScript/Configuration" extensions="ts">
