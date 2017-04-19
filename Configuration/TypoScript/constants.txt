@@ -1,2 +1,5 @@
 # Include constants from other extensions
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:fluidstyledcontent/Configuration/TypoScript/Static/constants.txt">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:cs_seo/Configuration/TypoScript/Extensions/News/constants.txt">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:gridelements/Configuration/TypoScript/constants.txt">
 <INCLUDE_TYPOSCRIPT: source="FILE:EXT:news/Configuration/TypoScript/constants.txt">
